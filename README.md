@@ -1,10 +1,10 @@
 
 Testing TCBScans site by navigating through pages of the site.  Maven build using Selenium , Cucumber and JUnit.
 
-From the home page.
+From the Home page.
 
-Open the projects page.
+Open the Projects page.
 
 On Projects page.
 
-Open the One Piece chapters Page.
+Open the One Piece Chapters page.
